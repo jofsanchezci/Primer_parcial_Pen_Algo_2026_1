@@ -1,7 +1,7 @@
 # Primer Parcial
 - Resolver los siguiente ejericios. Siga las instrucciones de cada uno de los puntos. 
 - El diseño de las soluciones deben ser como se indican en las secciones entradas y salidas.
-- Envie por cada punto un archivo .py solo con el nuemero del punto. Ejemplo: punt_1.py, punto_2.py, etc.
+- Envie por cada punto un archivo .py solo con el nuemero del punto. Ejemplo: punto_1.py, punto_2.py, etc.
 - Solo para el punto 5 realice un diagrama de flujo.
 
 
